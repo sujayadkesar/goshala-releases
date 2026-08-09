@@ -1,9 +1,9 @@
 {
-  "version": "10.4.0",
+  "version": "10.4.1",
   "min_version": "0.0.0",
   "native_build": 3,
-  "bundle_url": "https://github.com/sujayadkesar/goshala-releases/releases/download/v10.4.0/bundle-10.4.0.zip",
+  "bundle_url": "https://github.com/sujayadkesar/goshala-releases/releases/download/v10.4.1/bundle-10.4.1.zip",
   "apk_url": "https://github.com/sujayadkesar/goshala-releases/releases/latest/download/GoshalaLedger.apk",
-  "notes": "v10.4: one migrate button, and nothing at all for anybody else to do",
+  "notes": "Stop the self-test's own probe from breaking every sync",
   "published_at": "2026-08-09"
 }
