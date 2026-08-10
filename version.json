@@ -1,9 +1,9 @@
 {
-  "version": "10.9.0",
+  "version": "10.9.1",
   "min_version": "0.0.0",
   "native_build": 3,
-  "bundle_url": "https://github.com/sujayadkesar/goshala-releases/releases/download/v10.9.0/bundle-10.9.0.zip",
+  "bundle_url": "https://github.com/sujayadkesar/goshala-releases/releases/download/v10.9.1/bundle-10.9.1.zip",
   "apk_url": "https://github.com/sujayadkesar/goshala-releases/releases/latest/download/GoshalaLedger.apk",
-  "notes": "Three ways a record used to disappear between two phones",
+  "notes": "A correction the cloud never hears about gets undone",
   "published_at": "2026-08-10"
 }
