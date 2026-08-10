@@ -1,9 +1,9 @@
 {
-  "version": "10.6.0",
+  "version": "10.6.1",
   "min_version": "0.0.0",
   "native_build": 3,
-  "bundle_url": "https://github.com/sujayadkesar/goshala-releases/releases/download/v10.6.0/bundle-10.6.0.zip",
+  "bundle_url": "https://github.com/sujayadkesar/goshala-releases/releases/download/v10.6.1/bundle-10.6.1.zip",
   "apk_url": "https://github.com/sujayadkesar/goshala-releases/releases/latest/download/GoshalaLedger.apk",
-  "notes": "Fix the update loop, and make migrating actually leave Supabase",
-  "published_at": "2026-08-09"
+  "notes": "Re-queue the whole database on any backend switch, in both directions",
+  "published_at": "2026-08-10"
 }
