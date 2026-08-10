@@ -1,9 +1,9 @@
 {
-  "version": "10.6.3",
+  "version": "10.6.4",
   "min_version": "0.0.0",
   "native_build": 3,
-  "bundle_url": "https://github.com/sujayadkesar/goshala-releases/releases/download/v10.6.3/bundle-10.6.3.zip",
+  "bundle_url": "https://github.com/sujayadkesar/goshala-releases/releases/download/v10.6.4/bundle-10.6.4.zip",
   "apk_url": "https://github.com/sujayadkesar/goshala-releases/releases/latest/download/GoshalaLedger.apk",
-  "notes": "Never migrate without telling the others, and stop caching GitHub's listing",
+  "notes": "Undo the header that blocked every GitHub request, and free a removed member's username",
   "published_at": "2026-08-10"
 }
