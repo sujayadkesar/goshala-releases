@@ -1,9 +1,9 @@
 {
-  "version": "10.9.1",
+  "version": "10.9.2",
   "min_version": "0.0.0",
   "native_build": 3,
-  "bundle_url": "https://github.com/sujayadkesar/goshala-releases/releases/download/v10.9.1/bundle-10.9.1.zip",
+  "bundle_url": "https://github.com/sujayadkesar/goshala-releases/releases/download/v10.9.2/bundle-10.9.2.zip",
   "apk_url": "https://github.com/sujayadkesar/goshala-releases/releases/latest/download/GoshalaLedger.apk",
-  "notes": "A correction the cloud never hears about gets undone",
-  "published_at": "2026-08-10"
+  "notes": "The pull was deleting the bill it had just been shown",
+  "published_at": "2026-08-11"
 }
