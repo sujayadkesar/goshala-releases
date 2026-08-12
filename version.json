@@ -1,9 +1,9 @@
 {
-  "version": "10.10.0",
+  "version": "10.10.1",
   "min_version": "0.0.0",
   "native_build": 3,
-  "bundle_url": "https://github.com/sujayadkesar/goshala-releases/releases/download/v10.10.0/bundle-10.10.0.zip",
+  "bundle_url": "https://github.com/sujayadkesar/goshala-releases/releases/download/v10.10.1/bundle-10.10.1.zip",
   "apk_url": "https://github.com/sujayadkesar/goshala-releases/releases/latest/download/GoshalaLedger.apk",
-  "notes": "Cash between people, numbers that count, and a village list you can use",
+  "notes": "Each row of a split takes the next number, not a copy of one",
   "published_at": "2026-08-12"
 }
