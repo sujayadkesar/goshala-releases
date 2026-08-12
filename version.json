@@ -1,9 +1,9 @@
 {
-  "version": "10.10.1",
+  "version": "10.10.2",
   "min_version": "0.0.0",
   "native_build": 3,
-  "bundle_url": "https://github.com/sujayadkesar/goshala-releases/releases/download/v10.10.1/bundle-10.10.1.zip",
+  "bundle_url": "https://github.com/sujayadkesar/goshala-releases/releases/download/v10.10.2/bundle-10.10.2.zip",
   "apk_url": "https://github.com/sujayadkesar/goshala-releases/releases/latest/download/GoshalaLedger.apk",
-  "notes": "Each row of a split takes the next number, not a copy of one",
+  "notes": "The migration cannot build an index over rows it created",
   "published_at": "2026-08-12"
 }
