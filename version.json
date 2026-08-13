@@ -1,9 +1,9 @@
 {
-  "version": "10.11.0",
+  "version": "10.12.0",
   "min_version": "0.0.0",
   "native_build": 3,
-  "bundle_url": "https://github.com/sujayadkesar/goshala-releases/releases/download/v10.11.0/bundle-10.11.0.zip",
+  "bundle_url": "https://github.com/sujayadkesar/goshala-releases/releases/download/v10.12.0/bundle-10.12.0.zip",
   "apk_url": "https://github.com/sujayadkesar/goshala-releases/releases/latest/download/GoshalaLedger.apk",
-  "notes": "A hard delete leaves nothing behind for the other phones to find",
-  "published_at": "2026-08-12"
+  "notes": "A donor who has nothing on them is still a donor",
+  "published_at": "2026-08-13"
 }
