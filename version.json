@@ -1,9 +1,9 @@
 {
-  "version": "10.13.0",
+  "version": "10.13.1",
   "min_version": "0.0.0",
   "native_build": 4,
-  "bundle_url": "https://github.com/sujayadkesar/goshala-releases/releases/download/v10.13.0/bundle-10.13.0.zip",
+  "bundle_url": "https://github.com/sujayadkesar/goshala-releases/releases/download/v10.13.1/bundle-10.13.1.zip",
   "apk_url": "https://github.com/sujayadkesar/goshala-releases/releases/latest/download/GoshalaLedger.apk",
-  "notes": "An update that can only promise is worse than one that takes 20 MB",
+  "notes": "The update never leaves the app",
   "published_at": "2026-08-13"
 }
