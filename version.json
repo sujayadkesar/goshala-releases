@@ -1,9 +1,9 @@
 {
-  "version": "10.13.1",
+  "version": "10.13.2",
   "min_version": "0.0.0",
   "native_build": 4,
-  "bundle_url": "https://github.com/sujayadkesar/goshala-releases/releases/download/v10.13.1/bundle-10.13.1.zip",
+  "bundle_url": "https://github.com/sujayadkesar/goshala-releases/releases/download/v10.13.2/bundle-10.13.2.zip",
   "apk_url": "https://github.com/sujayadkesar/goshala-releases/releases/latest/download/GoshalaLedger.apk",
-  "notes": "The update never leaves the app",
+  "notes": "An APK signed by the wrong key strands the phone it installs on",
   "published_at": "2026-08-13"
 }
