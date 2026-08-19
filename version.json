@@ -1,9 +1,9 @@
 {
-  "version": "11.1.0",
+  "version": "11.2.0",
   "min_version": "0.0.0",
   "native_build": 4,
-  "bundle_url": "https://github.com/sujayadkesar/goshala-releases/releases/download/v11.1.0/bundle-11.1.0.zip",
+  "bundle_url": "https://github.com/sujayadkesar/goshala-releases/releases/download/v11.2.0/bundle-11.2.0.zip",
   "apk_url": "https://github.com/sujayadkesar/goshala-releases/releases/latest/download/GoshalaLedger.apk",
-  "notes": "Take the translation back out, and stop the install failing silently",
-  "published_at": "2026-08-14"
+  "notes": "The handover the save path had never been told about",
+  "published_at": "2026-08-19"
 }
